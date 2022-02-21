@@ -1,0 +1,6 @@
+create conda env
+
+conda install pip
+pip install onnx-tf
+conda install -c conda-forge tensorflow==2.6.0
+conda install -c conda-forge keras
